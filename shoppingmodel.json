@@ -1,0 +1,106 @@
+[
+  {
+    "category": "food-drinks",
+    "categoryId": 125,
+    "items": [
+      {
+        "productId": 1251,
+        "product": "milk",
+        "imageURL": "https://image.flaticon.com/icons/svg/2830/2830433.svg"
+      },
+      {
+        "productId": 1252,
+        "product": "Rice",
+        "imageURL": "https://image.flaticon.com/icons/svg/2592/2592760.svg"
+      },
+      {
+        "productId": 1253,
+        "product": "lentils",
+        "imageURL": "https://image.flaticon.com/icons/svg/2224/2224225.svg"
+      },
+      {
+        "productId": 1254,
+        "product": "salt-pepper",
+        "imageURL": "https://image.flaticon.com/icons/svg/1838/1838935.svg"
+      }
+    ]
+  },
+  {
+    "category": "breakfast",
+    "categoryId": 126,
+    "items": [
+      {
+        "productId": 1261,
+        "product": "croissant",
+        "imageURL": "https://image.flaticon.com/icons/svg/108/108022.svg"
+      },
+      {
+        "productId": 1262,
+        "product": "baguette",
+        "imageURL": "https://image.flaticon.com/icons/svg/108/108010.svg"
+      },
+      {
+        "productId": 1263,
+        "product": "bread",
+        "imageURL": "https://image.flaticon.com/icons/svg/851/851552.svg"
+      },
+      {
+        "productId": 1264,
+        "product": "loaf-of-bread",
+        "imageURL": "https://image.flaticon.com/icons/svg/108/108026.svg"
+      }
+    ]
+  },
+  {
+    "category": "Fruits",
+    "categoryId": 127,
+    "items": [
+      {
+        "productId": 1271,
+        "product": "grapes",
+        "imageURL": "https://image.flaticon.com/icons/svg/135/135311.svg"
+      },
+      {
+        "productId": 1272,
+        "product": "pineapple",
+        "imageURL": "https://image.flaticon.com/icons/svg/135/135367.svg"
+      },
+      {
+        "productId": 1273,
+        "product": "apple",
+        "imageURL": "https://image.flaticon.com/icons/svg/135/135497.svg"
+      },
+      {
+        "productId": 1274,
+        "product": "Strawberry",
+        "imageURL": "https://image.flaticon.com/icons/svg/135/135486.svg"
+      }
+    ]
+  },
+  {
+      "category":"kitchenware",
+      "categoryId":128,
+      "items":[
+        {
+            "productId": 1281,
+            "product": "glasses",
+            "imageURL": "https://image.flaticon.com/icons/svg/96/96172.svg"
+          },
+          {
+            "productId": 1282,
+            "product": "Knife",
+            "imageURL": "https://image.flaticon.com/icons/svg/2872/2872111.svg"
+          },
+          {
+            "productId": 1283,
+            "product": "cake-decorator",
+            "imageURL": "https://image.flaticon.com/icons/svg/527/527648.svg"
+          },
+          {
+            "productId": 1284,
+            "product": "roller",
+            "imageURL": "https://image.flaticon.com/icons/svg/1864/1864884.svg"
+          }
+        ]
+  }
+]
