@@ -1,6 +1,4 @@
-{ 
-  "shoppable":
-  [
+[
   {
     "category": "food-drinks",
     "categoryId": 125,
@@ -106,5 +104,4 @@
         ]
   }
 ]
-}
 
